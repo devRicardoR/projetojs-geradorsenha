@@ -108,3 +108,12 @@ body{
     bottom: 50px;
     opacity: 1;
 }
+
+footer{
+        position: fixed; /* Define a posição fixa do rodapé na parte inferior da janela do navegador */
+        bottom: 0; /* Alinha o rodapé à parte inferior da janela */
+        text-align: right;
+        background-color: #333; /* Define a cor de fundo do rodapé como um tom de cinza escuro */
+        color: white; /* Define a cor do texto como branco */
+        padding: 10px; /* Adiciona preenchimento interno ao rodapé */
+}
